@@ -1,4 +1,7 @@
-lucky-word: 
-  -Irish
-  -Rabbit's foot
-  -Serendipity
+---
+# A list of tasty fruits
+fruits:
+    - Apple
+    - Orange
+    - Strawberry
+    - Mango
